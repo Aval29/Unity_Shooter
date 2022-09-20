@@ -1,0 +1,27 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.6f1 (8a2143876886) revision 9052483'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19044.1889; Version 2009; 64bit' Language: 'ru' Physical Memory: 7097 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\The Sims 4\unity\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+Z:/modelki/zadania/Test/TZ_Brainylab/Shooter
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+53881
+Successfully changed project path to: Z:/modelki/zadania/Test/TZ_Brainylab/Shooter
+Z:/modelki/zadania/Test/TZ_Brainylab/Shooter
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 1604.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.6f1 (8a2143876886)
+[Subsystems] Discovering subsystems at path D:/The Sims 4/unity/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path Z:/modelki/zadania/Test/TZ_Brainylab/Shooter/Assets
+GfxDevice: creating device client; threaded=0
